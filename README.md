@@ -25,6 +25,7 @@
 ### 📌 Featured Projects
 🔹 **[AI-KM-Cybersecurity](https://github.com/valentinaschiavon99/AI-KM-Cybersecurity)** – AI-powered phishing detection using **NLP & ML**.  
 🔹 **[E-commerce-dashboard](https://github.com/valentinaschiavon99/e-commerce-dashboard)** – Interactive **Streamlit dashboard** for analyzing sales trends.  
-🔹 **[SE2Einzelprojekt](https://github.com/valentinaschiavon99/SE2Einzelprojekt)** – **Spring Boot Webservice in Kotlin** for managing game results & leaderboards.  
+🔹 **[SE2Einzelprojekt](https://github.com/valentinaschiavon99/SE2Einzelprojekt)** – **Spring Boot Webservice in Kotlin** for managing game results & 
+[Visitor Count](https://komarev.com/ghpvc/?username=valentinaschiavon99&style=flat-square&color=0e75b6)
 
 ---
