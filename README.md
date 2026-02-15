@@ -32,6 +32,8 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Swagger API](https://img.shields.io/badge/Swagger%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Development & Deployment Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -44,6 +46,8 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FFB81C?style=for-the-badge&logoColor=white)
 
 ### Specialization Areas
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logoColor=white)
@@ -52,6 +56,7 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-00D9FF?style=for-the-badge&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk%20Management-FFB833?style=for-the-badge&logoColor=white)
 ![Risk Propagation](https://img.shields.io/badge/Risk%20Propagation-DC2626?style=for-the-badge&logoColor=white)
+![Clean Coding](https://img.shields.io/badge/Clean%20Coding-2C3E50?style=for-the-badge&logoColor=white)
 
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
