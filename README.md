@@ -31,6 +31,7 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Swagger API](https://img.shields.io/badge/Swagger%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Development & Deployment Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,6 +39,11 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Specialization Areas
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logoColor=white)
@@ -45,10 +51,30 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B00FF?style=for-the-badge&logoColor=white)
 ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-00D9FF?style=for-the-badge&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk%20Management-FFB833?style=for-the-badge&logoColor=white)
+![Risk Propagation](https://img.shields.io/badge/Risk%20Propagation-DC2626?style=for-the-badge&logoColor=white)
 
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows Subsystem for Linux](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## Professional Experience
+
+### Data Engineer Intern | Infineon
+*Developing data engineering solutions and optimizing data pipelines for enterprise systems*
+- Experience with data processing and ETL workflows
+- Database design and optimization
+- Contributing to data-driven decision-making infrastructure
+
+### Full Stack Developer for Risk Management | Austrian Institute of Technology
+*Designing and implementing comprehensive risk management solutions*
+- Full-stack development of risk assessment and propagation systems
+- Backend API development with Node.js and Nest.js
+- Frontend implementation with modern JavaScript frameworks
+- Risk analysis, propagation modeling, and management workflows
+- Cybersecurity integration and secure architectural implementation
 
 ---
 
