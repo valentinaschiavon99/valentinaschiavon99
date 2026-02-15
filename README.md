@@ -2,8 +2,6 @@
 
 **Business Informatics Student | Cybersecurity & AI Specialist | Software Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=valentinaschiavon99&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 ---
 
 ## Professional Profile
@@ -153,3 +151,11 @@ Dedicated Business Informatics student with expertise in **Cybersecurity, Artifi
 - 🇬🇧 **English**: Professional working proficiency
 - 🇩🇪 **German**: Professional working proficiency
 - 🇪🇸 **Spanish**: Professional working proficiency
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=valentinaschiavon99&color=blueviolet&style=flat-square&label=Profile+Views&animated=true)
+
+</div>
