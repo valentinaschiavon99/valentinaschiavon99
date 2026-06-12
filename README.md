@@ -254,7 +254,7 @@ Data-driven eCommerce operations across international markets.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=valentinaschiavon99&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=valentinaschiavon99&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
